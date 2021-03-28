@@ -1,2 +1,0 @@
-# Devchallenges
-Projects from devchellenges
