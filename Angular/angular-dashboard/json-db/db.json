@@ -1,0 +1,65 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "userName": "arun",
+      "password": "kumar",
+      "aliases": [
+        ""
+      ],
+      "id": 1
+    },
+    {
+      "userName": "rama",
+      "password": "krishna",
+      "aliases": [
+        ""
+      ],
+      "id": 2
+    },
+    {
+      "userName": "patchuru419",
+      "password": "sadhvik@2020",
+      "firstName": " Ramakrishna",
+      "lastName": "Patchuru",
+      "id": 3
+    },
+    {
+      "userName": "banvika419",
+      "password": "ramak",
+      "firstName": " Banvika",
+      "lastName": "Patchuru",
+      "id": 4
+    },
+    {
+      "userName": "hhh",
+      "password": " ",
+      "firstName": " hello",
+      "lastName": "hhh",
+      "id": 5
+    },
+    {
+      "userName": "sadhvik419",
+      "password": "sadhvik2020",
+      "firstName": " Sadhvik",
+      "lastName": "Patchuru",
+      "id": 6
+    }
+  ]
+}

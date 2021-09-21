@@ -1,0 +1,44 @@
+.container{
+    width: 800px;
+    height: 500px;
+}
+/*
+.navbar{
+    width:150px;
+    height: 500px;
+    position: relative;
+    background-color: burlywood;
+    left:0;
+}
+.dashboard {
+  width:650px;
+  height: 500px;
+  position: fixed;
+  right:16%;
+  top:1.5%;
+  background-color:cornflowerblue ;
+}
+*/
+
+nav {
+
+    ul{
+        padding-left:0 ;
+        li{
+            list-style-type: none;
+            margin: 20px 0;
+
+            button {
+                 
+                  height: 30px;
+                  width: 200px;
+            }
+        }
+    }
+
+    .btn.primary {
+    
+        background-color: green;
+       }
+   }
+
